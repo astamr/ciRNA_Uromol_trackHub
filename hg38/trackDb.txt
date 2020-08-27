@@ -1,0 +1,31 @@
+track ciRNA_NMIBC
+bigDataUrl ciRNA_NMIBC.bb
+shortLabel ciRNA_Uromol_NMIBC
+longLabel Genomic location of ciRNA found in Non-muscle invasive bladder cancer samples
+type bigBed 6
+visibility dense
+color 70,130,180
+
+track merged_ciRNA_NMIBC
+bigDataUrl ciRNA_NMIBC.bb
+shortLabel merged_ciRNA_Uromol_NMIBC
+longLabel Genomic location of collapsed ciRNA found in Non-muscle invasive bladder cancer samples
+type bigBed 6
+visibility dense
+color 25,25,112
+
+track ciRNA_MIBC
+bigDataUrl ciRNA_MIBC.bb
+shortLabel ciRNA_Uromol_MIBC
+longLabel Genomic location of ciRNA found in muscle invasive bladder cancer samples
+type bigBed 6
+visibility dense
+color 75,0,130
+
+track merged_ciRNA_MIBC
+bigDataUrl ciRNA_MIBC.bb
+shortLabel merged_ciRNA_Uromol_MIBC
+longLabel Genomic location of collapsed ciRNA found in muscle invasive bladder cancer samples
+type bigBed 6
+visibility dense
+color 128,0,128

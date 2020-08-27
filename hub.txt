@@ -1,0 +1,5 @@
+hub ciRNA_Uromol_hub
+shortLabel ciRNA_Uromol	
+longLabel Genomic location of ciRNA found in uromol dataset
+genomesFile genomes.txt
+email astamr@clin.au.dk
